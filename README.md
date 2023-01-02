@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **ASP.NET**
 
-- 🌱 I’m currently learning **ASP.NET, Java**
+- 🌱 I’m currently learning **ASP.NET, JavaScript**
 
 - 👯 I’m looking to collaborate on **Web Application**
 
