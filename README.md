@@ -31,4 +31,6 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=anjali21022&count_private=true&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anjali21022&show_icons=true&theme=radical)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjali21022&" alt="anjali21022" /></p>
+
 
